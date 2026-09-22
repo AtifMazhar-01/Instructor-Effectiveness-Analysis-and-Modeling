@@ -26,7 +26,7 @@ Instructors are classified into three relative tiers: **Low**, **Medium**, and *
 
 ## Problem Statement
 
-Online learning platforms collect many batch-level signals such as completion rates, quiz scores, engagement activity, and learner feedback. Individually, these metrics are useful—but together they are hard to turn into a clear, fair view of **instructor performance**.
+Online learning platforms collect many batch-level signals such as completion rates, quiz scores, engagement activity, and learner feedback. Individually, these metrics are useful-but together they are hard to turn into a clear, fair view of **instructor performance**.
 
 Two practical challenges appear:
 
